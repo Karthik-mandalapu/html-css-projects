@@ -1,0 +1,77 @@
+.bg-imagee {
+    background-image: url("https://5.imimg.com/data5/JJ/OD/MU/SELLER-90145727/bus-booking-service-500x500.png");
+    height: 95vh;
+    width:120vh;
+
+    background-size: cover;
+    padding: 2px;
+
+}
+
+.cardd {
+    height: 220px;
+    width: 436px;
+    text-align: center;
+    background-size: cover;
+    background-color:rgba(204, 151, 151, 0.952);
+    
+
+    
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+    
+    
+}
+    
+
+
+.headingg {
+    font-size: 50px;
+    font-family: "playfair display";
+    font-style: italic;
+    color: rgb(255, 183, 0);
+
+
+
+}
+
+.buttonn {
+    font-size: 20px;
+    height: 39px;
+    width: 100px;
+
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.signupp {
+    background-color: green;
+}
+
+.paraa {
+    font-size: 15px;
+    font-weight: 300;
+    
+}
+
+.aroww {
+    font-size: 20px;
+    margin:0px;
+    color: white;
+
+}
+
+.arroww.-size {
+    
+    color: white;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    align-items:center;
+    
+}

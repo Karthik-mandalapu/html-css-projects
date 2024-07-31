@@ -1,0 +1,90 @@
+.bgimage{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    width:60vh;
+    height:30vh;
+    background-size:cover;
+   
+}
+.heading1{
+    color:rgb(227, 220, 199);
+    font-family:cursive;
+    font-weight:lighter;
+    font-size:30px;
+    width:190px;
+    margin-bottom:0px;
+    padding:25px;
+    padding-top:50px;
+    
+    
+}
+.bgcolor{
+    background-color: #bbd1dd;
+    width:55.66vh;
+    
+    padding:15px;
+
+}
+
+
+.card-item{
+    text-align:center;
+    background-color: white;
+    width:20vh;
+    border-radius: 10px;
+    padding:15px;
+    margin:20px;
+ 
+}
+.card-image{
+    width:70px;
+    height:70px;
+    padding-top: 10px;
+
+
+}
+.card-name{
+    font-size:15px;
+    color:rgb(87, 87, 84);
+    margin-top:0px;
+
+}
+.card-price{
+    font-weight:bold;
+    color:rgb(104, 104, 101);
+    font-size:25px;
+    margin:0px;
+    padding-bottom: 15px;
+
+}
+.box{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex;
+    align-items:center;
+    
+    
+}
+.button{
+    
+    background-color: #1179da;
+    font-size:18px;
+    color:white;
+    border-radius:6px;
+    padding:10px;
+    width:140px;
+    font-family:Arial;
+
+}
+.buttonn{
+    text-align:center;
+}
+.karthik{
+    color:rgb(222, 141, 9);
+    font-size:40px;
+    width:190px;
+    margin-top:0px;
+    margin-left:20px;
+    font-family:cursive;
+    padding-top:0px;
+    line-height:0.2;
+}
